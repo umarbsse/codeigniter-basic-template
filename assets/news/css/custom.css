@@ -1,0 +1,9 @@
+.hide{
+    display: none;
+}
+.latest_news{
+    color: #000000;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 3px double #000000;
+}
